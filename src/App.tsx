@@ -21,19 +21,21 @@ export const App: React.FC = () => {
     }
   });
 
+  // Helper to extract story ID from any hash variation: #/story/story-01, #story-01, #/story-01, etc.
+  const getStoryIdFromHash = (rawHash: string): string | null => {
+    if (!rawHash) return null;
+    const clean = rawHash.replace(/^[#/]+/, '');
+    const idOrSlug = clean.replace(/^story\//, '').replace(/\/$/, '');
+    const found = allStories.find((s) => s.id === idOrSlug || s.slug === idOrSlug);
+    return found ? found.id : null;
+  };
+
   // Sync with URL Hash for seamless GitHub Pages routing and back-button support
   useEffect(() => {
     const handleHashChange = () => {
-      const hash = window.location.hash.replace('#', '').replace('/', '');
-      if (hash && allStories.some((s) => s.id === hash || s.slug === hash)) {
-        const found = allStories.find((s) => s.id === hash || s.slug === hash);
-        if (found) {
-          setSelectedStoryId(found.id);
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-          return;
-        }
-      }
-      setSelectedStoryId(null);
+      const storyId = getStoryIdFromHash(window.location.hash);
+      setSelectedStoryId(storyId);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
     handleHashChange();
@@ -56,12 +58,16 @@ export const App: React.FC = () => {
 
   // Navigate to story
   const handleSelectStory = (storyId: string) => {
+    setSelectedStoryId(storyId);
     window.location.hash = `#/story/${storyId}`;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   // Navigate back to catalog
   const handleBackToCatalog = () => {
+    setSelectedStoryId(null);
     window.location.hash = '#';
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   // Next / Previous Story Navigation
