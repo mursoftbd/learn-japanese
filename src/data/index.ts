@@ -4,12 +4,24 @@ import { storiesGroup2 } from './storiesGroup2';
 import { storiesGroup3 } from './storiesGroup3';
 import { storiesGroup4 } from './storiesGroup4';
 
-export const allStories: Story[] = [
+const rawStories: Story[] = [
   ...storiesGroup1,
   ...storiesGroup2,
   ...storiesGroup3,
   ...storiesGroup4,
 ];
+
+// Attach actual image paths for all stories
+export const allStories: Story[] = rawStories.map((story) => ({
+  ...story,
+  paragraphs: story.paragraphs.map((p) => ({
+    ...p,
+    image: {
+      ...p.image,
+      src: p.image.src || `images/stories/${story.id}/scene-${p.paragraphNumber}.jpeg`,
+    },
+  })),
+}));
 
 export interface CategoryInfo {
   id: StoryCategory | 'all';

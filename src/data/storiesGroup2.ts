@@ -25,7 +25,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'mountain',
           altJa: 'やま で おじいさん の おむすび が ころころ ころがる',
           altEn: 'A round onigiri rice ball rolling downhill into a little hole near an old man under green cedar trees.',
-          prompt: 'Friendly grandfather sitting on tree stump watching a triangular rice ball roll down grassy hillside into a glowing burrow, Japanese fairy tale illustration'
         },
         sentences: [
           {
@@ -86,7 +85,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'home',
           altJa: 'あな の なか で かわいい ねずみ たち が うたって おどる',
           altEn: 'Little grey mice wearing tiny kimonos singing and pounding rice cakes inside a warm cozy burrow underground.',
-          prompt: 'Adorable little mice in colorful yukatas dancing happily around an onigiri rice ball in a lantern-lit underground room, cute, festive'
         },
         sentences: [
           {
@@ -166,7 +164,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'city',
           altJa: 'とうきょう えき の ホーム に しんかんせん が くる',
           altEn: 'A high-speed white bullet train arriving at a modern Tokyo train station platform.',
-          prompt: 'Sleek white and blue Japanese bullet train arriving at bright Tokyo Station platform, happy family with a boy carrying train toy, clean anime illustration'
         },
         sentences: [
           {
@@ -219,7 +216,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'mountain',
           altJa: 'しんかんせん の まど から みえる ゆき の ふじさん',
           altEn: 'Snow-capped Mount Fuji standing tall against a bright blue sky viewed from the train window.',
-          prompt: 'View from bullet train window, majestic Mount Fuji with snow cap under bright sunny sky, green tea plantations in foreground, peaceful Japanese landscape'
         },
         sentences: [
           {
@@ -302,7 +298,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'forest',
           altJa: 'ひかる たけ の なか に かわいい ちいさな おんなのこ',
           altEn: 'A magical golden glowing bamboo stalk split open revealing a tiny luminous baby princess.',
-          prompt: 'Old Japanese bamboo cutter in forest looking in wonder at a glowing bamboo stalk, inside sits a tiny glowing smiling baby girl, nighttime fantasy illustration'
         },
         sentences: [
           {
@@ -354,7 +349,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'night',
           altJa: 'まんげつ の よる に つき を みあげる うつくしい かぐやひめ',
           altEn: 'Princess Kaguya gazing softly at a brilliant full moon glowing in the night sky.',
-          prompt: 'Beautiful Princess Kaguya with long black hair wearing radiant Japanese kimono looking up at a giant glowing full moon in deep indigo sky, starry night'
         },
         sentences: [
           {
@@ -437,7 +431,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'park',
           altJa: 'さくら の き の した で シート を ひろげて ピクニック',
           altEn: 'A family sitting on a blue picnic mat under pink blooming cherry blossoms with a basket of delicious snacks.',
-          prompt: 'Happy Japanese family on picnic blanket under blooming cherry blossom sakura trees, picnic basket, strawberries, sunny spring day, cheerful watercolor style'
         },
         sentences: [
           {
@@ -489,7 +482,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'park',
           altJa: 'こどもたち が バドミントン を して あそぶ',
           altEn: 'Two happy kids playing badminton together on the grass while parents watch with smiles.',
-          prompt: 'Little brother and sister playing badminton in a sunny park with flying shuttlecock, laughing, springtime, bright happy cartoon'
         },
         sentences: [
           {
@@ -561,7 +553,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'forest',
           altJa: 'あたま に このは を のせた きつね と たぬき',
           altEn: 'A cunning cute fox and a fluffy tanuki balancing autumn leaves on their heads ready to do magic.',
-          prompt: 'Cute orange Japanese fox kitsune and chubby raccoon dog tanuki each putting a red maple leaf on head, magical sparkles in autumn forest, storybook illustration'
         },
         sentences: [
           {
@@ -613,7 +604,6 @@ export const storiesGroup2: Story[] = [
           svgTheme: 'forest',
           altJa: 'きつね が とり に ばけて、たぬき が ちゃがま に ばける',
           altEn: 'The fox transformed into a graceful bird and the raccoon into a round tea kettle with cute eyes.',
-          prompt: 'Magical smoke puff, cute Japanese fox transformed into small flying bird and chubby tanuki transformed into shiny iron tea kettle chagama with tail, funny and delightful'
         },
         sentences: [
           {

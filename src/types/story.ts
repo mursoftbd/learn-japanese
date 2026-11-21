@@ -14,11 +14,10 @@ export interface SentenceItem {
 }
 
 export interface StoryImage {
-  src?: string;           // Optional real image path (e.g. /images/story-1-p1.jpg)
+  src?: string;           // Path to actual image (e.g. images/stories/story-01/scene-1.jpeg)
   altJa: string;
   altEn: string;
-  prompt: string;         // Descriptive prompt for image generation in the future
-  svgTheme: 'forest' | 'home' | 'river' | 'city' | 'school' | 'kitchen' | 'park' | 'beach' | 'mountain' | 'night' | 'market';
+  svgTheme?: 'forest' | 'home' | 'river' | 'city' | 'school' | 'kitchen' | 'park' | 'beach' | 'mountain' | 'night' | 'market';
 }
 
 export interface StoryParagraph {

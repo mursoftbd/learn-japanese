@@ -322,7 +322,6 @@ export const StoryReader: React.FC<Props> = ({
             <div className="mb-6">
               <StoryIllustration
                 image={paragraph.image}
-                storyTitle={story.title}
                 paragraphIndex={pIdx}
               />
             </div>

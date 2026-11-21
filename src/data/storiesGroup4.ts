@@ -25,7 +25,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'mountain',
           altJa: 'あかい まえかけ を した つよい きんたろう',
           altEn: 'Strong little boy Kintaro wearing red haragake bib holding a toy wooden axe in the mountains.',
-          prompt: 'Little muscular cute Japanese folklore boy Kintaro with red apron bib bearing kanji gold design, carrying axe over shoulder, smiling heroically on green grassy mountain, anime art'
         },
         sentences: [
           {
@@ -79,7 +78,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'mountain',
           altJa: 'きんたろう と くま の すもう の しあい',
           altEn: 'Kintaro having a friendly sumo match against a big fluffy brown bear on a grassy mountaintop.',
-          prompt: 'Cheerful sumo match between little strong boy Kintaro and giant friendly brown bear, rabbit and monkey cheering on the side, sunny mountaintop, dynamic storybook illustration'
         },
         sentences: [
           {
@@ -157,7 +155,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'あかい のれん の ラーメンやさん で ゆげ が たつ',
           altEn: 'A warm ramen shop with a red curtain noren and steaming pots behind the wooden counter.',
-          prompt: 'Cozy traditional Japanese ramen shop counter, red noren curtain fluttering, steam rising from deep broth pots, warm ambient lighting, manga watercolor'
         },
         sentences: [
           {
@@ -209,7 +206,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'たまご と チャーシュー が のった おいしそうな ラーメン',
           altEn: 'A mouthwatering bowl of ramen topped with chashu pork slices, boiled egg half, nori seaweed, and green scallions.',
-          prompt: 'Appetizing top-down bowl of Japanese shoyu ramen, wavy yellow noodles, sliced braised pork, soft-boiled ajitama egg with gooey yolk, green negi, nori seaweed, anime food art'
         },
         sentences: [
           {
@@ -290,7 +286,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'night',
           altJa: 'ぎんいろ の ロケット が ほし の なか を とぶ',
           altEn: 'A shiny silver rocket ship zooming into the dark starry outer space past colorful planets.',
-          prompt: 'Cute silver rocket with red fins flying among sparkling stars, crescent moon and colorful planets in deep navy blue cosmos, whimsical children book style'
         },
         sentences: [
           {
@@ -339,7 +334,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'night',
           altJa: 'つき の うえ で おもち を つく かわいい うさぎ たち',
           altEn: 'Cute white rabbits pounding rice cakes mochi in a wooden mortar on the golden moon surface.',
-          prompt: 'Two fluffy white rabbits on cratered surface of moon using wooden mallet to pound mochi in mortar, Earth floating in background, magical starry sky'
         },
         sentences: [
           {
@@ -416,7 +410,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'park',
           altJa: 'はる の さくら と なつ の はなび',
           altEn: 'Cherry blossoms fluttering in spring followed by vibrant fireworks illuminating the summer night sky.',
-          prompt: 'Split illustration showing pink spring cherry blossoms petals swirling on left, and vibrant summer fireworks hanabi over a festival on right, whimsical art'
         },
         sentences: [
           {
@@ -457,7 +450,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'mountain',
           altJa: 'あき の もみじ と ふゆ の ゆきだるま',
           altEn: 'Red and gold maple leaves in autumn and a cute round snowman with a carrot nose in pure white winter.',
-          prompt: 'Autumn red and orange momiji maple trees shedding leaves next to a cheerful smiling snowman with bucket hat in gentle snowfall, serene seasonal landscape'
         },
         sentences: [
           {
@@ -535,7 +527,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'school',
           altJa: 'えがお で あいさつ を かわす こどもたち',
           altEn: 'Two young classmates exchanging warm smiles and sharing colored crayons in school.',
-          prompt: 'Two cute elementary kids in schoolroom sharing crayons smiling warmly, glittering happy hearts, warm soft colors, cheerful storybook art'
         },
         sentences: [
           {
@@ -584,7 +575,6 @@ export const storiesGroup4: Story[] = [
           svgTheme: 'home',
           altJa: 'かぞく や ともだち と えがお で て を つなぐ',
           altEn: 'Friends and family holding hands in a circle with cheerful glowing expressions under a rainbow.',
-          prompt: 'Happy group of children and parents holding hands under a gentle rainbow, floral background, pure joy and friendship, children picture book illustration'
         },
         sentences: [
           {

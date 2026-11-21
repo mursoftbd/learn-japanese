@@ -25,7 +25,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'home',
           altJa: 'あおい め が ぴかぴか ひかる かわいい ロボット',
           altEn: 'A shiny round white robot with sparkling blue LED eyes and a little antenna smiling friendly in a room.',
-          prompt: 'Cute round white robot with big blue glowing LED digital eyes, tiny antenna, smiling warmly in a modern Japanese apartment room, 3D animated style'
         },
         sentences: [
           {
@@ -76,7 +75,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'ロボット が おばあちゃん に あたたかい おちゃ を はこぶ',
           altEn: 'The friendly robot carrying a tray with warm green tea to grandmother resting on the sofa.',
-          prompt: 'Cute robot carefully carrying a small tray with steaming green tea in Japanese teacup to smiling grandmother on sofa, heartwarming, pastel tones'
         },
         sentences: [
           {
@@ -159,7 +157,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'mountain',
           altJa: 'ゆき の なか で わな に かかった つる を たすける わかもの',
           altEn: 'A kind young man freeing a trapped white crane with red crown in a snowy field.',
-          prompt: 'Snowy Japanese landscape, gentle young peasant rescuing a beautiful white red-crowned crane caught in wooden trap, falling snowflakes, traditional Japanese story'
         },
         sentences: [
           {
@@ -212,7 +209,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'home',
           altJa: 'ゆき の よる に いえ を たずねてきた うつくしい むすめ',
           altEn: 'A graceful woman with a white shawl standing by the wooden door in gentle snowfall.',
-          prompt: 'Traditional Japanese farmhouse porch at snowy night, kind young man opening sliding door, a beautiful delicate young woman standing outside in warm light, poetic scene'
         },
         sentences: [
           {
@@ -295,7 +291,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'park',
           altJa: 'きいろい かさ と あかい ながぐつ を はいた カエルくん',
           altEn: 'A joyful little green frog wearing red rainboots holding a tiny yellow umbrella in the rain.',
-          prompt: 'Cute chibi green frog holding yellow leaf umbrella wearing red rain boots, gentle raindrops falling into puddles with ripples, lush hydrangeas, storybook art'
         },
         sentences: [
           {
@@ -346,7 +341,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'park',
           altJa: 'あじさい の はっぱ の うえ の かたつむり と おしゃべり',
           altEn: 'The frog chatting happily with a tiny spiral-shelled snail on a purple hydrangea leaf.',
-          prompt: 'Little frog and cute snail with spiral shell smiling at each other under large green hydrangea leaf with dew drops, purple and blue flowers, wet glistening nature'
         },
         sentences: [
           {
@@ -418,7 +412,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'market',
           altJa: 'スーパーマーケット で カート を おす おんなのこ と おかあさん',
           altEn: 'A young girl pushing a red shopping cart beside her mother at the produce aisle.',
-          prompt: 'Bright Japanese supermarket interior, smiling mother and cheerful little daughter pushing red wire cart near colorful apples and oranges shelves, clean anime style'
         },
         sentences: [
           {
@@ -470,7 +463,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'おなべ で ぐつぐつ にえる おいしい カレー',
           altEn: 'A silver cooking pot simmering fragrant brown curry with potatoes and carrots on the stove.',
-          prompt: 'Steaming cooking pot on stove simmering rich Japanese curry with diced carrots and potatoes, mother and daughter smiling in cozy kitchen'
         },
         sentences: [
           {
@@ -546,7 +538,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'beach',
           altJa: 'うきわ を もった ペンギン の ピッポくん',
           altEn: 'A baby penguin wearing swimming goggles holding a striped swim ring on a sandy beach.',
-          prompt: 'Adorable little penguin with yellow goggles around neck holding red-white striped swim ring, standing on sunny tropical sand beach, palm trees, blue water'
         },
         sentences: [
           {
@@ -598,7 +589,6 @@ export const storiesGroup3: Story[] = [
           svgTheme: 'beach',
           altJa: 'あおい シロップ の かきごおり を たべる ペンギン',
           altEn: 'The penguin happily licking cold blue shaved ice under a beach parasol.',
-          prompt: 'Chibi penguin sitting on striped beach chair under parasol eating tall cup of blue syrup shaved ice with spoon, sunshine, turquoise ocean'
         },
         sentences: [
           {

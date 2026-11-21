@@ -25,7 +25,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'river',
           altJa: 'かわ から おおきな もも が ながれて きます',
           altEn: 'A giant pink peach floating down a clear blue river towards an elderly woman.',
-          prompt: 'Cute children picture book style, an elderly Japanese grandmother standing by a sparkling river looking with joy at a giant peach floating down the river, vibrant watercolor, warm colors, no kanji, friendly atmosphere'
         },
         sentences: [
           {
@@ -81,7 +80,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'home',
           altJa: 'もも の なか から あかちゃん が でてきました',
           altEn: 'A healthy smiling baby boy emerging from the giant open peach inside the cozy house.',
-          prompt: 'Cute Japanese folk illustration, a giant ripe peach cut open on tatami mat, a healthy smiling baby boy popping out, elderly Japanese couple with big happy smiles, storybook art'
         },
         sentences: [
           {
@@ -133,7 +131,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'forest',
           altJa: 'ももたろう と いぬ、さる、きじ が ともだち に なります',
           altEn: 'Momotaro sharing delicious sweet dumplings with a friendly dog, monkey, and pheasant along a scenic mountain trail.',
-          prompt: 'Chibi Momotaro boy with a headband giving round dumplings to a cute dog, clever monkey, and colorful pheasant on a sunny green path, Japanese traditional children picture book'
         },
         sentences: [
           {
@@ -198,7 +195,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'home',
           altJa: 'みんな で えがお で いえ に かえります',
           altEn: 'Momotaro and all animal friends returning happily home to grandfather and grandmother under a sunny sky.',
-          prompt: 'Happy ending storybook art, Momotaro, dog, monkey, pheasant smiling together with old grandfather and grandmother outside traditional Japanese cottage, colorful, joyful'
         },
         sentences: [
           {
@@ -270,7 +266,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'home',
           altJa: 'まど の そば で ねている しろい こねこ',
           altEn: 'A fluffy white kitten sleeping peacefully on a soft yellow cushion beside a sunny window.',
-          prompt: 'Super cute fluffy white kitten sleeping warmly in sunbeam on a cushion, Japanese room, cozy, bright daylight, pastel colors, children book style'
         },
         sentences: [
           {
@@ -325,7 +320,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'park',
           altJa: 'にわ で きいろい ちょうちょ を おいかける こねこ',
           altEn: 'A playful white cat leaping gently to chase a bright yellow butterfly in a garden with red flowers.',
-          prompt: 'Adorable white kitten jumping playfully in green grass garden with red and yellow tulips, yellow butterfly fluttering, sunshine, cute watercolor'
         },
         sentences: [
           {
@@ -390,7 +384,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'おさら の ミルク を のむ かわいい こねこ',
           altEn: 'The white cat drinking tasty milk from a blue saucer dish beside its owner.',
-          prompt: 'Cute white cat happily drinking warm white milk from a shallow ceramic bowl, cheerful Japanese kitchen floor, heartwarming illustration'
         },
         sentences: [
           {
@@ -470,7 +463,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'school',
           altJa: 'ランドセル を せおって がっこう へ いく おとこのこ',
           altEn: 'A smiling Japanese schoolboy wearing a blue randoseru backpack walking to school in the morning.',
-          prompt: 'Cute elementary school student wearing navy uniform and blue backpack walking cheerfully down a cherry blossom lined street towards Japanese school gate, bright morning'
         },
         sentences: [
           {
@@ -524,7 +516,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'school',
           altJa: 'きょうしつ で せんせい と ひらがな を べんきょう する こどもたち',
           altEn: 'Children sitting at wooden desks in a bright Japanese classroom learning Hiragana with a kind teacher.',
-          prompt: 'Friendly Japanese classroom scene, kind female teacher at blackboard with colorful Hiragana cards, enthusiastic smiling students sitting at desks'
         },
         sentences: [
           {
@@ -579,7 +570,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'かわいい おべんとう を たべる こどもたち',
           altEn: 'An open Japanese bento box with octopus sausages, rolled egg, and smiling rice ball.',
-          prompt: 'Japanese character bento box close-up, smiling onigiri rice ball with nori face, red octopus sausage, yellow tamagoyaki, green broccoli, colorful and appetizing'
         },
         sentences: [
           {
@@ -660,7 +650,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'beach',
           altJa: 'うみべ で こどもたち に いじめられている かめ を たすける うらしまたろう',
           altEn: 'Urashima Taro by the sandy sea shore protecting a gentle green sea turtle.',
-          prompt: 'Japanese fisherman youth saving a cute sea turtle on a sandy ocean beach, gentle waves, blue sky, traditional Japanese folklore art'
         },
         sentences: [
           {
@@ -715,7 +704,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'beach',
           altJa: 'かめ の せなか に のって うみ の そこ の おしろ へ いく',
           altEn: 'Urashima Taro riding upon the large shell of the turtle descending under magical blue ocean waters towards a glowing coral palace.',
-          prompt: 'Urashima Taro riding on a majestic swimming sea turtle underwater, colorful tropical fish, glowing coral reef, fairy tale palace in background'
         },
         sentences: [
           {
@@ -769,7 +757,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'night',
           altJa: 'りゅうぐうじょう で おとひめさま と さかな たち が おどる',
           altEn: 'Princess Otohime welcoming Urashima Taro inside the shining underwater castle with dancing colorful fish.',
-          prompt: 'Beautiful underwater crystal palace, kind Princess Otohime in elegant kimono smiling at Urashima Taro, colorful fish dancing in circles, magical glowing underwater lanterns'
         },
         sentences: [
           {
@@ -843,7 +830,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'kitchen',
           altJa: 'しろい ぼうし を かぶった パンダ の コックさん が パン を やく',
           altEn: 'A cute chubby panda in a white baker hat kneading soft dough in a warm cottage bakery.',
-          prompt: 'Adorable panda wearing chef hat and apron kneading bread dough on a floury wooden table, warm oven in background, cozy bakery kitchen, storybook style'
         },
         sentences: [
           {
@@ -898,7 +884,6 @@ export const storiesGroup1: Story[] = [
           svgTheme: 'market',
           altJa: 'どうぶつ たち が パン を かいに くる',
           altEn: 'Cute rabbit, bear, and squirrel lining up at the bakery window to buy delicious melon bread.',
-          prompt: 'Forest animals rabbit bear squirrel queuing in front of quaint wooden bakery counter, panda chef handing over golden baked bread, sunny morning'
         },
         sentences: [
           {
